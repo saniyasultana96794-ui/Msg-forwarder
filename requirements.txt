@@ -1,0 +1,5 @@
+python-telegram-bot==21.1.1
+telethon==1.36.0
+Flask==3.0.3
+aiosqlite==0.20.0
+python-dotenv==1.0.1
